@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "lsv": "lite-server -c bs-config.json"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
