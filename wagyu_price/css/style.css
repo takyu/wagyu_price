@@ -15,6 +15,10 @@ p {
   color: #fff;
 }
 
+.card {
+  border-radius: 0;
+}
+
 .content-width {
   max-width: 1200px;
   margin: 0 auto;
@@ -29,15 +33,14 @@ p {
   color: #343a40;
 }
 
-@media screen and (min-width:576px) {
+@media screen and (min-width: 576px) {
   .row {
     margin-bottom: 30px;
   }
 }
 
-
 .submit-color {
-  background-color: #DE660D;
+  background-color: #de660d;
   color: white;
   opacity: 0.9;
   transition: all 0.4s;
@@ -45,7 +48,7 @@ p {
 }
 
 .submit-color:hover {
-  opacity: 1.0;
+  opacity: 1;
 }
 
 .submit-center {
