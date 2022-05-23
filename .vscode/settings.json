@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "onFocusChange",
+  /*  setting config of html formatter */
+  "html.format.extraLiners": "",
+  "html.format.wrapLineLength": 0,
+}
