@@ -1,10 +1,10 @@
 {
   "port": 53030,
   "files": [
-    "./wagyu_price/**/*.{html,htm,css,js}"
+    "./**/*.{html,htm,css,js}"
   ],
   "server": {
-    "baseDir": "./wagyu_price"
+    "baseDir": "."
   },
   "open": true,
   "browser": "google chrome"
